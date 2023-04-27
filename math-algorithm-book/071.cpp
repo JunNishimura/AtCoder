@@ -26,5 +26,5 @@ int main() {
         }
     }
 
-    cout << ans << endl;
+    printf("%.12lf\n", ans);
 }
